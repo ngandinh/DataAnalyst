@@ -1,6 +1,6 @@
 
 ## Data Analysis Project
-By: Ngan Dinh
+By: Ngan Dinh  
 Skills and Tools: SSMS, SQL Server Import and Export Data, SQL Server Scripts, DDL and DML, Tableau Public, Google Colaborator, Python Numpy, Pandas, MatPlotlib, Seaborn, HTML5Up template, Githud storage and server
 
 Data Sets: 
